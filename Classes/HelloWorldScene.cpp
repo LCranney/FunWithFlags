@@ -8,6 +8,8 @@ USING_NS_CC;
 #define COCOS2D_DEBUG 1
 using namespace cocostudio::timeline;
 
+// Test Comment
+
 Scene* HelloWorld::createScene()
 {
     // 'scene' is an autorelease object
